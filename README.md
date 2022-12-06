@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ac2014cs&label=Profile%20views&color=0e75b6&style=flat" alt="ac2014cs" /> </p>
 
-- 🌱 I’m currently learning **React JS, Ruby, Pytorch, Sqlite, Cassandra, jcp, aws, codeigniter, selenium, nextjs, unity, arduino**
+- 🌱 I’m currently learning ** Ruby, Pytorch, jcp, aws, codeigniter, selenium, unity, arduino**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ac2014cs](https://github.com/ac2014cs)
 
